@@ -1,0 +1,10 @@
+You have received Tk 1,500.00 from 01711000001. Fee Tk 0.00. Balance Tk 3,250.50. TrxID BKX11AA01 at 12/09/2026 14:32
+Send Money Tk 500.00 to 01822000002 successful. Fee Tk 5.00. Balance Tk 2,745.50. TrxID BKX11AA02 at 13/09/2026 09:10
+Cash Out Tk 2,000.00 to Agent 01933000003 successful. Fee Tk 37.00. Balance Tk 708.50. TrxID BKX11AA03 at 14/09/2026 18:45
+Payment Tk 350.00 to Shwapno Gulshan successful. Balance Tk 358.50. TrxID BKX11AA04 at 15/09/2026 20:01
+Cash In Tk 5,000.00 from 01644000004 successful. Balance Tk 5,358.50. TrxID BKX11AA05 at 16/09/2026 11:20
+Nagad: Money received Tk 800.00 from 01555000005. Balance Tk 1,200.00. TxnID NGD7788A1. 17-09-2026 10:05
+Nagad: Send Money Tk 250.00 to 01766000006 is successful. Charge Tk 0.00. Balance Tk 950.00. TxnID NGD7788A2. 18-09-2026 16:40
+Nagad: Cash Out Tk 1,000.00 successful. Charge Tk 12.50. Current balance Tk 437.50. TxnID NGD7788A3. 19-09-2026 13:15
+Your mobile recharge of Tk 99.00 to 01877000007 is successful. Balance Tk 259.50. TrxID BKX11AA06 at 20/09/2026 08:55
+Payment of Tk 1,250.00 to Daraz BD done. Fee Tk 0.00. Available balance Tk 3,010.25. Ref BKX11AA07 21/09/2026 22:30

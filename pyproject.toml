@@ -1,0 +1,24 @@
+[project]
+name = "ai-engineering-lab"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "alembic>=1.20.0",
+    "fastapi>=0.142.2",
+    "httpx>=0.28.1",
+    "langgraph>=1.2.12",
+    "langgraph-checkpoint-sqlite>=3.1.1",
+    "mcp>=2.2.0",
+    "ollama>=0.6.3",
+    "pandas>=3.0.6",
+    "pdfplumber>=0.11.10",
+    "pydantic>=2.13.5",
+    "pytest>=9.1.1",
+    "python-dotenv>=1.2.3",
+    "rank-bm25>=0.2.2",
+    "sqlalchemy>=2.1.1",
+    "streamlit>=1.64.0",
+    "uvicorn>=0.54.0",
+]

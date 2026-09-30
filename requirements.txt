@@ -1,0 +1,16 @@
+ollama
+pydantic
+python-dotenv
+pytest 
+httpx 
+pandas 
+rank-bm25 
+pdfplumber 
+streamlit 
+fastapi 
+uvicorn 
+sqlalchemy 
+alembic 
+langgraph 
+langgraph-checkpoint-sqlite 
+mcp

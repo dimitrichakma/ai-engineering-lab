@@ -1,0 +1,21 @@
+id,message,category,urgency,language
+1,My order was supposed to arrive yesterday but still nothing. Order #4412,delivery,medium,english
+2,I paid with bKash twice for the same order! Please return the extra money,payment,high,english
+3,আমার অর্ডার এখনো আসেনি। কবে পাব?,delivery,medium,bangla
+4,The shirt color is different from the picture,product_issue,low,english
+5,I want to return this phone. How do I get a refund?,refund,medium,english
+6,apnader app e login korte parchi na password reset link ashe na,account,medium,banglish
+7,Package arrived broken and the glass is shattered,product_issue,high,english
+8,টাকা কেটে নিয়েছে কিন্তু অর্ডার কনফার্ম হয়নি,payment,high,bangla
+9,Do you deliver to Khagrachari?,delivery,low,english
+10,refund ta ekhono pai nai 10 din hoye gelo,refund,high,banglish
+11,How can I change my phone number on my account?,account,low,english
+12,Can I get a discount if I buy 5 pieces?,other,low,english
+13,Rider was very rude and threw the parcel,delivery,medium,english
+14,পণ্যের সাইজ ভুল এসেছে,product_issue,medium,bangla
+15,Someone logged into my account and placed orders I did not make,account,high,english
+16,card payment failed 3 times but money deducted once,payment,high,banglish
+17,What are your office hours?,other,low,english
+18,I returned the item 2 weeks ago. Where is my money?,refund,high,english
+19,delivery man bolse ajke ashbe but kono update nai,delivery,medium,banglish
+20,The charger stopped working after 3 days,product_issue,medium,english

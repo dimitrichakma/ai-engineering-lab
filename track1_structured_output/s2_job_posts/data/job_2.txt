@@ -1,0 +1,9 @@
+Machine Learning Engineer
+Sonali Data Systems (made up) is hiring! Fully remote role for candidates in Bangladesh.
+
+You will: train and deploy ML models, work with our data team, and build evaluation pipelines.
+
+Must have: 2+ years ML experience, Python, PyTorch, SQL.
+Good to have: MLflow, AWS.
+
+Competitive salary and yearly bonus. Deadline: 5 Nov 2026.

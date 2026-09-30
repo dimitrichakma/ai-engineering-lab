@@ -1,0 +1,20 @@
+Junior AI Engineer (Gen AI)
+Company: Nodi Labs Ltd. (made up)
+Location: Banani, Dhaka. Hybrid: 3 days in office.
+
+We are looking for a Junior AI Engineer to build LLM features for our customer support product.
+
+Requirements:
+- 0 to 2 years of experience
+- Strong Python
+- Experience with LangChain or LangGraph
+- Understanding of RAG and vector databases
+- Good communication in English
+
+Nice to have:
+- FastAPI
+- Docker
+- Any fine tuning experience
+
+Salary: BDT 45,000 to 60,000 per month (negotiable)
+Apply before 20 October 2026.

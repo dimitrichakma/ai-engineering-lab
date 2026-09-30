@@ -1,0 +1,8 @@
+# Streamlit reads this from the folder you run `streamlit run` in.
+# If you run from the lab root, copy this folder there (or pass the options on the command line).
+[theme]
+primaryColor = "#2f6fdf"
+backgroundColor = "#f6f8fb"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#1c2430"
+font = "sans serif"

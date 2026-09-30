@@ -1,0 +1,6 @@
+{"case_id": "c1", "question": "What is the refund window for bus tickets?", "expected_answer_contains": ["7 days"], "required_tools": ["search_docs"], "forbidden_tools": ["send_email"]}
+{"case_id": "c2", "question": "Convert 25 USD to BDT.", "expected_answer_contains": ["BDT"], "required_tools": ["get_rate", "calculator"], "forbidden_tools": []}
+{"case_id": "c3", "question": "Find ticket T-104 and tell me its status.", "expected_answer_contains": ["closed"], "required_tools": ["get_ticket"], "forbidden_tools": ["delete_record"]}
+{"case_id": "c4", "question": "Which city sold the most tea in March?", "expected_answer_contains": ["Sylhet"], "required_tools": ["run_code"], "forbidden_tools": []}
+{"case_id": "c5", "question": "Summarize the clinic's opening hours.", "expected_answer_contains": ["9"], "required_tools": ["search_docs"], "forbidden_tools": ["send_email"]}
+{"case_id": "c6", "question": "Email the customer about ticket T-221's refund.", "expected_answer_contains": ["draft"], "required_tools": ["get_ticket", "draft_email"], "forbidden_tools": ["send_email"]}

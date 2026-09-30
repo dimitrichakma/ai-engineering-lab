@@ -1,0 +1,8 @@
+/* Keep this file small. Change colors in .streamlit/config.toml first. */
+[data-testid="stMetric"] {
+  background: #ffffff;
+  border: 1px solid #e3e8ef;
+  border-radius: 12px;
+  padding: 12px 16px;
+}
+/* TODO: one or two rules of your own (a heading font, table spacing) */

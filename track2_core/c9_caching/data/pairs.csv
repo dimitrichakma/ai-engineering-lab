@@ -1,0 +1,17 @@
+cached_question,new_question,label
+How do I get a refund for my bus ticket?,how can I get my money back for a bus ticket,same
+How do I get a refund for my bus ticket?,How do I get a refund for my train ticket?,different
+What time does the clinic open?,When does the clinic open in the morning?,same
+What time does the clinic open?,What time does the clinic close?,different
+How many days of annual leave do I get?,How much annual leave is there per year?,same
+How many days of annual leave do I get?,How many days of sick leave do I get?,different
+Can I pay with bKash?,Is bKash accepted as payment?,same
+Can I pay with bKash?,Can I pay with Nagad?,different
+What is the fee for a general consultation?,How much does a normal doctor visit cost?,same
+What is the fee for a general consultation?,What is the fee for vaccination?,different
+Is the Sylhet bus AC?,Does the bus to Sylhet have air conditioning?,same
+Is the Sylhet bus AC?,Is the Cox's Bazar bus AC?,different
+How do I reset my password?,I forgot my password. How do I change it?,same
+How do I reset my password?,How do I change my phone number?,different
+Do children need a ticket?,Does my 2 year old need a ticket?,same
+Do children need a ticket?,Do pets need a ticket?,different

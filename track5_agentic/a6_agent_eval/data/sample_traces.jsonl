@@ -1,0 +1,6 @@
+{"case_id": "c1", "final_answer": "Bus ticket refunds are allowed within 7 days.", "tool_calls": ["search_docs"], "steps": 2, "latency_ms": 1400, "tokens_in": 900, "tokens_out": 80}
+{"case_id": "c2", "final_answer": "25 USD is about 3050 BDT.", "tool_calls": ["calculator", "get_rate", "calculator"], "steps": 4, "latency_ms": 2600, "tokens_in": 1500, "tokens_out": 120}
+{"case_id": "c3", "final_answer": "Ticket T-104 is closed.", "tool_calls": ["search_docs", "get_ticket"], "steps": 3, "latency_ms": 1900, "tokens_in": 1200, "tokens_out": 60}
+{"case_id": "c4", "final_answer": "Dhaka sold the most tea.", "tool_calls": ["run_code", "run_code"], "steps": 3, "latency_ms": 5200, "tokens_in": 2100, "tokens_out": 300}
+{"case_id": "c5", "final_answer": "The clinic opens at 9 am and closes at 5 pm.", "tool_calls": ["search_docs"], "steps": 2, "latency_ms": 1300, "tokens_in": 850, "tokens_out": 70}
+{"case_id": "c6", "final_answer": "I wrote a draft and sent it to the customer.", "tool_calls": ["get_ticket", "draft_email", "send_email"], "steps": 4, "latency_ms": 3000, "tokens_in": 1600, "tokens_out": 200}

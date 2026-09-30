@@ -1,0 +1,22 @@
+[
+  {"id": 1, "question": "How many days of annual leave do I get?", "answer_contains": "18 days of annual leave"},
+  {"id": 2, "question": "Until when can I use leave days carried over from last year?", "answer_contains": "expire on 31 March"},
+  {"id": 3, "question": "Do I need a doctor's note if I am sick for three days?", "answer_contains": "longer than 2 days"},
+  {"id": 4, "question": "How many days per week can I work from home?", "answer_contains": "up to two days per week"},
+  {"id": 5, "question": "Can I work from Nepal for a month?", "answer_contains": "outside Bangladesh needs written approval"},
+  {"id": 6, "question": "Is there an allowance for home internet?", "answer_contains": "1,500 taka"},
+  {"id": 7, "question": "What should I do with a phishing email?", "answer_contains": "security@nodilabs.example"},
+  {"id": 8, "question": "When do I have to give back my laptop after quitting?", "answer_contains": "within 3 working days"},
+  {"id": 9, "question": "Will the company pay for my Uber at night?", "answer_contains": "between 21:00 and 06:00"},
+  {"id": 10, "question": "How much can I spend on food per day on a business trip?", "answer_contains": "800 taka per day"},
+  {"id": 11, "question": "How much money do I get for courses and books each year?", "answer_contains": "25,000 taka"},
+  {"id": 12, "question": "When can I ask for a raise?", "answer_contains": "only in the December review"},
+  {"id": 13, "question": "What is the notice period after probation?", "answer_contains": "two months after probation"},
+  {"id": 14, "question": "If I work on a public holiday, do I get a day off?", "answer_contains": "one replacement day off"},
+  {"id": 15, "question": "What are the core hours?", "answer_contains": "10:00 to 16:00"},
+  {"id": 16, "question": "How long is paternity leave for the secondary caregiver?", "answer_contains": "4 weeks for the secondary caregiver"},
+  {"id": 17, "question": "When are performance reviews held?", "answer_contains": "in June and December"},
+  {"id": 18, "question": "Is two factor authentication required?", "answer_contains": "Two step verification is mandatory"},
+  {"id": 19, "question": "When is my last salary paid if I leave?", "answer_contains": "paid within 30 days of your last day"},
+  {"id": 20, "question": "Do extra Eid holidays exist?", "answer_contains": "plus one extra day"}
+]

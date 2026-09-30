@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.log
+*.db
+*.sqlite3
+traces.jsonl
+results/
+*.jsonl.tmp
+.DS_Store

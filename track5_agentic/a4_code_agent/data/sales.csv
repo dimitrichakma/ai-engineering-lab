@@ -1,0 +1,181 @@
+date,city,product,units,unit_price_bdt
+2026-01-01,Dhaka,soap,37,45
+2026-01-03,Dhaka,phone credit,2,100
+2026-01-04,Khagrachari,soap,5,45
+2026-01-05,Dhaka,lentils,5,130
+2026-01-05,Chattogram,phone credit,28,100
+2026-01-05,Sylhet,lentils,38,130
+2026-01-06,Dhaka,tea,5,60
+2026-01-06,Dhaka,phone credit,37,100
+2026-01-09,Dhaka,phone credit,31,100
+2026-01-10,Dhaka,soap,29,45
+2026-01-11,Khagrachari,lentils,14,130
+2026-01-12,Dhaka,lentils,27,130
+2026-01-13,Chattogram,soap,2,45
+2026-01-14,Rajshahi,phone credit,3,100
+2026-01-14,Khulna,phone credit,22,100
+2026-01-14,Khagrachari,phone credit,1,100
+2026-01-14,Khagrachari,lentils,37,130
+2026-01-14,Rajshahi,rice,35,75
+2026-01-16,Sylhet,tea,31,60
+2026-01-16,Khulna,tea,19,60
+2026-01-17,Khulna,soap,34,45
+2026-01-17,Rajshahi,lentils,31,130
+2026-01-18,Chattogram,soap,17,45
+2026-01-18,Sylhet,soap,30,45
+2026-01-18,Chattogram,lentils,10,130
+2026-01-20,Dhaka,rice,31,75
+2026-01-21,Dhaka,phone credit,20,100
+2026-01-21,Dhaka,lentils,23,130
+2026-01-22,Khulna,rice,9,75
+2026-01-23,Chattogram,lentils,21,130
+2026-01-23,Khulna,tea,30,60
+2026-01-23,Khulna,phone credit,16,100
+2026-01-24,Khagrachari,soap,7,45
+2026-01-25,Rajshahi,lentils,12,130
+2026-01-26,Khulna,soap,40,45
+2026-01-26,Rajshahi,tea,8,60
+2026-01-27,Rajshahi,soap,36,45
+2026-01-28,Chattogram,lentils,13,130
+2026-01-29,Chattogram,lentils,21,130
+2026-01-29,Dhaka,tea,34,60
+2026-01-29,Chattogram,soap,2,45
+2026-01-30,Rajshahi,rice,25,75
+2026-01-31,Rajshahi,phone credit,9,100
+2026-01-31,Khagrachari,soap,11,45
+2026-02-01,Rajshahi,lentils,34,130
+2026-02-01,Rajshahi,rice,18,75
+2026-02-03,Chattogram,phone credit,13,100
+2026-02-03,Khagrachari,rice,3,75
+2026-02-03,Khulna,phone credit,36,100
+2026-02-04,Sylhet,soap,13,45
+2026-02-04,Sylhet,lentils,4,130
+2026-02-06,Chattogram,tea,3,60
+2026-02-08,Rajshahi,phone credit,21,100
+2026-02-08,Dhaka,soap,2,45
+2026-02-08,Khagrachari,rice,2,75
+2026-02-08,Sylhet,rice,31,75
+2026-02-09,Khagrachari,rice,5,75
+2026-02-10,Sylhet,tea,40,60
+2026-02-11,Dhaka,tea,9,60
+2026-02-11,Chattogram,soap,27,45
+2026-02-12,Sylhet,lentils,25,130
+2026-02-13,Sylhet,tea,38,60
+2026-02-13,Dhaka,rice,38,75
+2026-02-13,Dhaka,tea,8,60
+2026-02-14,Rajshahi,phone credit,27,100
+2026-02-15,Sylhet,lentils,29,130
+2026-02-16,Chattogram,lentils,22,130
+2026-02-17,Sylhet,phone credit,38,100
+2026-02-17,Khagrachari,lentils,30,130
+2026-02-19,Rajshahi,soap,20,45
+2026-02-20,Sylhet,phone credit,9,100
+2026-02-23,Sylhet,phone credit,37,100
+2026-02-23,Sylhet,soap,2,45
+2026-02-23,Sylhet,tea,33,60
+2026-02-23,Rajshahi,phone credit,34,100
+2026-02-24,Dhaka,soap,3,45
+2026-02-24,Chattogram,tea,36,60
+2026-02-24,Khagrachari,tea,6,60
+2026-02-26,Khagrachari,phone credit,12,100
+2026-03-01,Khagrachari,lentils,23,130
+2026-03-01,Chattogram,rice,5,75
+2026-03-02,Khagrachari,soap,10,45
+2026-03-02,Chattogram,rice,25,75
+2026-03-03,Khagrachari,tea,6,60
+2026-03-04,Chattogram,tea,38,60
+2026-03-05,Khagrachari,soap,34,45
+2026-03-06,Chattogram,lentils,33,130
+2026-03-07,Sylhet,phone credit,21,100
+2026-03-07,Dhaka,lentils,19,130
+2026-03-08,Dhaka,soap,31,45
+2026-03-09,Sylhet,phone credit,4,100
+2026-03-09,Khagrachari,lentils,24,130
+2026-03-10,Dhaka,phone credit,32,100
+2026-03-11,Dhaka,lentils,18,130
+2026-03-11,Khulna,tea,32,60
+2026-03-12,Rajshahi,lentils,12,130
+2026-03-13,Dhaka,rice,30,75
+2026-03-14,Khagrachari,tea,14,60
+2026-03-14,Khulna,rice,33,75
+2026-03-14,Dhaka,soap,27,45
+2026-03-14,Chattogram,tea,13,60
+2026-03-14,Khagrachari,soap,26,45
+2026-03-15,Dhaka,tea,31,60
+2026-03-15,Khulna,soap,7,45
+2026-03-16,Khulna,rice,2,75
+2026-03-16,Dhaka,lentils,3,130
+2026-03-16,Khulna,phone credit,15,100
+2026-03-17,Dhaka,rice,22,75
+2026-03-17,Khagrachari,tea,8,60
+2026-03-18,Khagrachari,soap,28,45
+2026-03-18,Khulna,soap,36,45
+2026-03-18,Rajshahi,phone credit,18,100
+2026-03-19,Dhaka,phone credit,25,100
+2026-03-19,Khagrachari,lentils,32,130
+2026-03-19,Sylhet,phone credit,3,100
+2026-03-21,Dhaka,soap,24,45
+2026-03-21,Khulna,tea,11,60
+2026-03-22,Khagrachari,soap,21,45
+2026-03-23,Khulna,phone credit,19,100
+2026-03-23,Khulna,rice,28,75
+2026-03-23,Khulna,soap,27,45
+2026-03-24,Sylhet,rice,40,75
+2026-03-24,Chattogram,rice,24,75
+2026-03-24,Sylhet,phone credit,36,100
+2026-03-28,Khagrachari,soap,20,45
+2026-03-28,Sylhet,rice,11,75
+2026-03-28,Khagrachari,soap,19,45
+2026-03-28,Khagrachari,phone credit,12,100
+2026-03-29,Dhaka,phone credit,40,100
+2026-03-29,Chattogram,soap,26,45
+2026-03-30,Dhaka,phone credit,28,100
+2026-03-30,Khagrachari,tea,34,60
+2026-03-31,Rajshahi,lentils,37,130
+2026-03-31,Khulna,soap,24,45
+2026-03-31,Khagrachari,soap,39,45
+2026-04-02,Rajshahi,soap,36,45
+2026-04-02,Khulna,phone credit,36,100
+2026-04-02,Dhaka,rice,36,75
+2026-04-04,Rajshahi,lentils,35,130
+2026-04-04,Dhaka,lentils,2,130
+2026-04-05,Khagrachari,tea,5,60
+2026-04-06,Chattogram,tea,33,60
+2026-04-06,Rajshahi,tea,4,60
+2026-04-06,Sylhet,soap,9,45
+2026-04-07,Khulna,soap,17,45
+2026-04-08,Rajshahi,lentils,17,130
+2026-04-09,Rajshahi,phone credit,34,100
+2026-04-10,Khulna,tea,31,60
+2026-04-10,Chattogram,lentils,12,130
+2026-04-12,Sylhet,lentils,23,130
+2026-04-12,Dhaka,lentils,30,130
+2026-04-12,Khagrachari,soap,7,45
+2026-04-14,Khulna,phone credit,28,100
+2026-04-14,Khulna,phone credit,38,100
+2026-04-14,Khulna,tea,15,60
+2026-04-16,Sylhet,tea,37,60
+2026-04-16,Chattogram,tea,12,60
+2026-04-17,Rajshahi,phone credit,28,100
+2026-04-18,Khulna,phone credit,35,100
+2026-04-19,Khulna,phone credit,27,100
+2026-04-19,Chattogram,tea,18,60
+2026-04-20,Rajshahi,lentils,11,130
+2026-04-20,Khagrachari,soap,3,45
+2026-04-21,Khulna,lentils,6,130
+2026-04-21,Dhaka,soap,18,45
+2026-04-21,Khulna,tea,12,60
+2026-04-22,Khulna,lentils,24,130
+2026-04-22,Sylhet,phone credit,39,100
+2026-04-22,Dhaka,rice,31,75
+2026-04-23,Dhaka,lentils,3,130
+2026-04-23,Rajshahi,lentils,16,130
+2026-04-24,Sylhet,phone credit,18,100
+2026-04-24,Khulna,rice,2,75
+2026-04-24,Khulna,phone credit,7,100
+2026-04-24,Dhaka,soap,7,45
+2026-04-25,Dhaka,rice,19,75
+2026-04-25,Chattogram,rice,7,75
+2026-04-27,Dhaka,phone credit,22,100
+2026-04-30,Khulna,lentils,36,130
+2026-04-30,Chattogram,phone credit,22,100

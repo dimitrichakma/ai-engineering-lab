@@ -1,0 +1,8 @@
+Project sync, 2026-10-02
+People: Tania, Rafi, Joy
+
+- Website launch moves to 20 Oct because payment gateway testing is not done. (decided)
+- Rafi will finish gateway testing by 2026-10-10. Important!
+- Tania to write the launch blog post, maybe by 15th.
+- Joy: check mobile layout bugs, low priority, no fixed date.
+- Also someone should email the designer about the new logo. Tania said she can do it this week.

@@ -1,0 +1,27 @@
+# Copy to .github/workflows/ci.yml at the ROOT of your repo.
+name: ci
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15          # a stuck job can't burn minutes forever
+    env:
+      LLM_PROVIDER: fake         # CI never calls a real model and never needs an API key
+    steps:
+      - uses: actions/checkout@v4
+      # TODO: set up uv (astral-sh/setup-uv), then `uv sync`
+      # TODO: lint:  uv run ruff check .
+      # TODO: tests: uv run pytest -q
+      # TODO: eval gate: uv run python track3_backend/b5_docker_ci/eval_gate.py
+
+  docker:
+    runs-on: ubuntu-latest
+    needs: test
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      # TODO: docker build -f track3_backend/b5_docker_ci/Dockerfile -t lab-api .
