@@ -8,29 +8,30 @@ from .models import Transaction
 DATA = Path(__file__).parent / "data" / "sms_samples.txt"
 
 SYSTEM = (
-    # TODO: write the system instructions. Tell the model:
-    #  - it extracts data from Bangladeshi mobile money SMS
-    #  - use null when a value is not in the message; never guess
-    #  - amounts are numbers without "Tk" or commas
-    ""
+    'You extracts data from Bangladeshi mobile money SMS messages and return one JSON object. '
+    'The amount_bdt must be greater than 0. Never guess and never write N/A or unknown. '
+    'If the sms does not show fee_bdt, balance_bdt, trx_id, date_text, counterparty, use null for that field. '
+    'Amount_bdt, fee_bdt and balance_bdt are plain numbers: no "Tk" or commas.'
+    
 )
 
 
 def parse_sms(sms: str, max_attempts: int = 2) -> tuple[Transaction | None, int]:
     """Return (transaction or None, attempts used)."""
-    # TODO 1: build a prompt that contains the SMS.
-    # TODO 2: loop up to max_attempts:
-    #           raw = generate_json(prompt, Transaction.model_json_schema(), SYSTEM)
-    #           try Transaction.model_validate_json(raw) and return it
-    #           on ValidationError: print the error and try again
-    # TODO 3: if all attempts fail, return (None, max_attempts)
-    raise NotImplementedError
+    prompt = f"SMS:\n{sms}"
+    
+    for attempt in range(1, max_attempts + 1):
+        raw = generate_json(prompt, Transaction.model_json_schema(), SYSTEM)
+        try:
+            return Transaction.model_validate_json(raw), attempt
+        except ValidationError as e:
+            print(f"Attempt {attempt} failed: {e}")
+    return None, max_attempts        
 
 
 def main() -> None:
     lines = [l.strip() for l in DATA.read_text(encoding="utf-8").splitlines() if l.strip()]
-    # TODO 4: parse every line, print each result,
-    #         then print a summary: "parsed X/Y, retries used Z"
+    print(parse_sms(lines[0]))
 
 
 if __name__ == "__main__":
